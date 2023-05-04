@@ -8,27 +8,36 @@ body {
     background-image: url(../img/backgroundpizzaplanet.png);
     background-size: contain;
     background-repeat: repeat-y;
-    
 }
-
+.logo-navbar{
+    height: 3em;
+}
+.top-bar {
+    background-color: rgb(197,1,1) !important;
+}
+.navbar-font{
+    font-family: Impact;
+    color: white;
+    font-size: x-large;
+}
 .banner {
-    display: flex;
-    justify-content: center;
-    background-image: url(../img/banner.png);
+    background-image: url(../img/il_fullxfull.2328299146_r556.avif);
     background-size: contain;
-    background-repeat: no-repeat;
-    height: 15em;
+    background-repeat: repeat;
+    height: 13em;
     margin-bottom: 2em;
+    margin-top: 4em;
 }
 .alert {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 5em;
-    width: 30em;
-    background-color: red;
-    border-radius: 0.5em;
+    width: 20em;
+    background-color: rgb(197,1,1);
+    border-radius: 2em;
     color: white;
     font-family: Impact;
-    font-size: large;
+    font-size: 4em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
