@@ -32,6 +32,8 @@ body {
 
 .card{
     border: rgb(197,1,1) 0.5em solid;
+    height: 20em;
+    width: 20em;
     border-radius: 0.5em;
     cursor: pointer;
     margin-bottom: 1em;
@@ -40,13 +42,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 20em;
+    width: 50em;
     background-color: rgb(197,1,1);
     border-radius: 2em;
     color: white;
     font-family: Impact;
-    font-size: 4em;
+    font-size: 3em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    padding: 1em;
 }
 
