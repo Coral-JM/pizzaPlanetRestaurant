@@ -21,6 +21,8 @@ body {
     color: white;
     font-size: x-large;
 }
+/* <!--FIRST PAGE--> */
+
 .banner {
     background-image: url(../img/il_fullxfull.2328299146_r556.avif);
     background-size: contain;
@@ -29,7 +31,6 @@ body {
     margin-bottom: 2em;
     margin-top: 4em;
 }
-
 .card{
     border: rgb(197,1,1) 0.5em solid;
     height: 20em;
