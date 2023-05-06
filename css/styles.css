@@ -68,7 +68,27 @@ body {
     border-radius: 0.5em;
     background-color: var(--red);
     margin-top: 5em;
+    margin-bottom: 2em;
+    margin-left: 5em;
     color: white;
     font-size: 2em;
 }
+.entrantes {
+    border: rgb(197,1,1) 0.5em solid;
+    height: 20em;
+    width: 20em;
+    border-radius: 0.5em;
+    cursor: pointer;
+    margin-bottom: 1em;
+
+}
+.cardcarta {
+    border: rgb(197,1,1) 0.5em solid;
+    height: 30em;
+    width: 20em;
+    border-radius: 0.5em;
+    cursor: pointer;
+    margin-bottom: 1em;
+}
+
 
