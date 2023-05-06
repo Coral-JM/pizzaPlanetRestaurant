@@ -3,11 +3,14 @@
     margin: 0;
     padding: 0;
 }
-
+:root {
+    --red: rgb(197,1,1);
+}
 body {
     background-image: url(../img/backgroundpizzaplanet.png);
     background-size: contain;
     background-repeat: repeat-y;
+    font-family: Impact;
 }
 
 .logo-navbar{
@@ -21,7 +24,8 @@ body {
     color: white;
     font-size: x-large;
 }
-/* <!--FIRST PAGE--> */
+
+/*FIRST PAGE */
 
 .banner {
     background-image: url(../img/il_fullxfull.2328299146_r556.avif);
@@ -47,10 +51,24 @@ body {
     background-color: rgb(197,1,1);
     border-radius: 2em;
     color: white;
-    font-family: Impact;
     font-size: 3em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     padding: 1em;
+}
+
+/*CARTA*/
+
+.tittle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3em;
+    width: 20em;
+    border-radius: 0.5em;
+    background-color: var(--red);
+    margin-top: 5em;
+    color: white;
+    font-size: 2em;
 }
 
