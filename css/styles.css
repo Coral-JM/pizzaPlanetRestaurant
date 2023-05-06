@@ -89,4 +89,13 @@ body {
     margin-bottom: 1em;
 }
 
+/*FORMULARIO*/
+
+.formulario {
+    border: 0.5em solid var(--red);
+    margin-top: 18em;
+    padding: 5em;
+    margin-bottom: 20em;
+}
+
 
