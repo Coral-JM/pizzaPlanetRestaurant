@@ -39,7 +39,7 @@ Encontrarás una página que reúne toda la carta del restaurante, otra que prop
 ---
 ### Sección de errores
 
-Sin duda el auténtico reto ha sido tranformar el proyecto en una web responsive. Aunque la comodidad de Bootsrap agiliza el flujo de trabajo, los ajustes a los distintos dispositivos ha sido lo más laborioso.
+Sin duda el auténtico reto ha sido tranformar el proyecto en una web responsive. Aunque la comodidad de Bootstrap agiliza el flujo de trabajo, los ajustes a los distintos dispositivos ha sido lo más laborioso.
 
 ---
 
