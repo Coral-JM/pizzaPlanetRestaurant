@@ -12,6 +12,7 @@
 
 El segundo proyecto realizado para el curso de Full Stack Developer de GeeksHubs Academy. 
 Se trata de la construcción de la web de un restaurante. En este caso el famoso Pizza Planet conocido por su aparición en la película Toy Story de Pixar. El reto consistía en crear la web desde cero usando HTML5, CSS3 y BOOTSTRAP además de que la web fuera totalmente responsive.
+Si quieres echarle un ojo haz click aquí: [PIZZA PLANET](https://coral-jm.github.io/pizzaPlanetRestaurant/)
 
 ---
 
