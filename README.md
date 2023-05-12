@@ -26,16 +26,13 @@ Si quieres echarle un ojo haz click aquí: [PIZZA PLANET](https://coral-jm.githu
 **Tercera página: Formulario para iniciar un pedido para delivery.**
 ![alt text](/img/Captura%20de%20pantalla%20(12).png)
 
-**Cuarta página: ¡Únete a la crew adoptanco a un alien!**
-![alt text](/img/Captura%20de%20pantalla%20(13).png)
-
 ---
 
 ### Construcción
 
 La web está dividida en cuatro páginas. 
 La principal muestra dos secciones en las que se presentan las fotos para dirigirte a las otras páginas de forma más visual. Puedes acceder a través de la navbar o a través de las imágenes. 
-Encontrarás una página que reúne toda la carta del restaurante, otra que propone el inicio de un pedido delivery a través de un formulario para acotar el territorio de entrega y por último una página explicativa de cómo formar parte de la crew del restaurante, en la que se exponen los niveles y el funcionamiento de su suscripción. 
+Encontrarás una página que reúne toda la carta del restaurante, otra que propone el inicio de un pedido delivery a través de un formulario para acotar el territorio de entrega y por último una página explicativa de cómo formar parte de la crew del restaurante, en la que se exponen los niveles y el funcionamiento de su suscripción, ésta última queda fuera de la entrega por estar en construcción. 
 
 ---
 ### Sección de errores
