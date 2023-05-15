@@ -28,31 +28,33 @@ body {
 /*FIRST PAGE */
 
 .slider {
-    width: 75vw;
+    width: 100%;
     height: auto;
-    margin-top: 3em;
-    margin-bottom: 3em;
     overflow: hidden;
+    margin-top: 3em;
 }
-.slider, .slide-track {
+.slider .slide-track {
     display: flex;
-    animation: scroll 40s linear infinite;
+    animation: scroll 50s linear infinite;
+    -webkit-animation: scroll 50s linear infinite;
     width: calc(200px * 14);
 }
-.slider, .slide {
+.slider .slide {
     width: 200px;
 }
 
-.slider, .slide-track img {
+.slider .slide img {
     width: 100%;
 }
 
 @keyframes scroll {
     0% {    
+        -webkit-transform: translateX(0);
         transform: translateX(0);
     }
     100% {
-        transform: translateX(cal(-200px * 7));
+        -webkit-transform: translateX(calc(-200px * 7));
+        transform: translateX(calc(-200px * 7));
     }
 }
 
